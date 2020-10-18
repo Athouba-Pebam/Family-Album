@@ -1,0 +1,56 @@
+/*Style for body*/
+body{
+    text-align: center;
+}
+
+#papa{
+    display: none;
+    text-align: top;
+}
+#mama{
+    display: none;
+}
+#thoihenba{
+    display: none;
+}
+#athouba{
+    display: none;
+}
+
+#next_button1{
+    display: none;
+}
+#next_button2{
+    display: none;
+}
+#next_button3{
+    display: none;
+}
+#next_button4{
+    display: none;
+}
+
+#family_img{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#papa_img{
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#mama_img{
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#thoihenba_img{
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#me_img{
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
